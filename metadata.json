@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Classic & Rush",
+  "description": "Offline Ludo board game featuring Pass & Play, Computer Play, Rush Mode, and Team Play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
